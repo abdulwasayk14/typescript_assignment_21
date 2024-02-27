@@ -1,1 +1,1 @@
-# typescript_assignment_21
+# typescript_assignment_21_Objects
